@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aqua; /* Цвет фона страницы */
+  }
+  
+  header {
+    background-color: blue; /* Цвет фона заголовка */
+    padding: 20px;
+  }
+  
+  section {
+    padding: 40px;
+    background-color: chocolate; /* Цвет фона блоков */
+  }
+  
+  h1, h2 {
+    color:maroon; /* Цвет текста заголовков */
+  }
+  
+  footer {
+    background-color: blueviolet; /* Цвет фона нижнего колонтитула */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  
+  
